@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyActivity!</string>
+    <string name="app_name">RIC Android Client</string>
+    <string name="prompt">こえのしゅるい</string>
+	<string-array name="label_phont">
+	  <item>ゆっくり</item>
+	  <item>てと</item>
+	  <item>もも</item>
+	  <item>でふぉると</item>
+	  <item>M４</item>
+	  <item>はすきー</item>
+	  <item>ろぼ</item>
+	  <item>ろぼ２</item>
+	</string-array>
+	<string-array name="value_phont">
+	  <item>aq_yukkuri</item>
+	  <item>aq_teto1</item>
+	  <item>aq_momo1</item>
+	  <item>aq_defo1</item>
+	  <item>aq_m4</item>
+	  <item>aq_huskey</item>
+	  <item>aq_rb2</item>
+	  <item>aq_robo</item>
+	</string-array>
+	<string-array name="value_speech">
+	  <item>ぐーてんたーく</item>
+	  <item>ぐーてんもるげん</item>
+	  <item>ぐーてんたーく、うぇるこめんて、げーでーでー</item>
+	  <item>ぐっどあふたぬーん、うぇるかむとぅ、ぐーぐるでべろっぱーでーい</item>
+	  <item>ぐーてんたーく、いっひこめ,あうす,やーぱん</item>
+	  <item>いっひはいす,りっくあんどろいど</item>
+	  <item>あいむ、なんばーわん、あんどろいど</item>
+	  <item>あろー</item>
+	  <item>ほいていすとだす,べったーぐーと</item>
+	  <item>おーいえー</item>
+	  <item>しゅぷりひと,ひーあ,いえーまんと,やぱーにっしゅ？</item>
+	  <item>やー、びって</item>
+	  <item>けねん、ずいーみっひ、ふぉとぐらふぃーれん？</item>
+	  <item>だんけしぇーん</item>
+	  <item>ういーんういーん</item>
+	  <item>うおおおおおおおおおおおお</item>
+	  <item>おうつくしいですね</item>
+	  <item>かわいいですね</item>
+	  <item>おとこまえ、ですね</item>
+	  <item>こんごともよろしくおねがいします</item>
+	</string-array>
+	
+	
+	<!-- demokit -->
+	
+    <string name="button">button</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="led1Red">Led 1 Red</string>
+    <string name="led1Green">Led 1 Green</string>
+    <string name="led1Blue">Led 1 Blue</string>
+    <string name="led2Red">Led 2 Red</string>
+    <string name="led2Green">Led 2 Green</string>
+    <string name="led2Blue">Led 2 Blue</string>
+    <string name="led3Red">Led 3 Red</string>
+    <string name="led3Green">Led 3 Green</string>
+    <string name="led3Blue">Led 3 Blue</string>
+    <string name="relay1">1</string>
+    <string name="relay2">2</string>
+    <string name="temperature">Temperature</string>
+    <string name="light">Light</string>
+    <string name="buttons">Buttons</string>
+    <string name="relays">Relays</string>
+    <string name="led1">Led 1</string>
+    <string name="led2">Led 2</string>
+    <string name="led3">Led 3</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="servos">Servos</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="joystick">Joystick</string>
+    <string name="cap">Cap Button</string>
+    <string name="servo1">1</string>
+    <string name="servo2">2</string>
+    <string name="servo3">3</string>
+	
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<!-- <EditText android:id="@+id/server" android:layout_width="fill_parent" 
+		android:layout_height="wrap_content" android:text="http://192.168.43.97:10000" 
+		/> -->
+	<EditText android:id="@+id/server" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="http://172.0.0.1:10000"
+		android:visibility="gone" />
+
+	<Button android:id="@+id/start" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Start Motion Mode"
+		android:onClick="onStartButtonClick" />
+
+	<Button android:id="@+id/scenario" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Start Scenario Mode"
+		android:onClick="onScenarioButtonClick" />
+
+	<Button android:id="@+id/demokit" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="Start DemoKit"
+		android:onClick="onDemoKitButtonClick" />
+
+
+</LinearLayout>

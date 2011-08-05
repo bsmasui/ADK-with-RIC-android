@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<EditText android:id="@+id/text" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:visibility="gone" />
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:visibility="gone">
+		<ImageButton android:id="@+id/speech"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@android:drawable/ic_btn_speak_now" />
+		<ImageButton android:id="@+id/send" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:src="@drawable/emo_im_tongue_sticking_out" />
+	</LinearLayout>
+	<SeekBar android:id="@+id/seekbar" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:max="250"
+		android:progress="10" android:visibility="gone" />
+	<Spinner android:id="@+id/spinner" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:prompt="@string/prompt"
+		android:entries="@array/value_phont" android:visibility="gone" />
+	<Spinner android:id="@+id/spinnerSpeech" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:prompt="@string/prompt"
+		android:entries="@array/value_speech" android:visibility="gone" />
+
+	<ListView android:id="@+id/list" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" />
+
+
+</LinearLayout>

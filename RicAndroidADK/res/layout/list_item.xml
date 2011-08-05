@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="vertical">
+
+	<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id='@+id/name' android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:textSize="30sp"
+		android:padding="10dp" />
+	<!-- 
+	<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id='@+id/mac_address' android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:textSize="14sp"
+		android:gravity="right"
+		android:textColor="#AAAAAA" />
+	-->
+</LinearLayout>
