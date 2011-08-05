@@ -1,7 +1,7 @@
 the source code of ADK with RIC Android that's known as "Android Robot" in Google I/O 2011 Sandbox.
 
 the application is including two projects. 
-the one is "RICAndroid" which is a library project, other one is "RICAndroidADK" which is a main application, according to "RICAndroid".
+the one is "RICAndroid" which is a library project, another one is "RICAndroidADK" which is a main application, according to "RICAndroid".
 
 You should refer to "RICAndroid" from "RICAndroidADK" as an Android's library project.
 
