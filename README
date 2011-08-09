@@ -1,4 +1,4 @@
-The source code of "ADK with RIC Android" that's known as "Android Robot" in Google I/O 2011 Sandbox.
+This is the source code for ADK with RIC Android that's known as Android Robot, which was exhibited @ Google I/O 2011 Sandbox.
 
 The application includes two projects.
 The first one is "RICAndroid" which is a library project.
